@@ -1,5 +1,7 @@
 body{
   backgrond:green;
-}form  label{
+}
+form  label{
   display:block;
-  front-size:25px;
+  font-size:25px;
+}
