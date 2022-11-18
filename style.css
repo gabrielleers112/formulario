@@ -1,12 +1,12 @@
 body{
-  backgrond:celadon ;
+  backgrond: celadon;
 }
-form  label{
+form label{
   display:block;
   font-size:25px;
 }
-td {
-   border:1px solid #CCCCCC;
-   border-color:;
+td{
+   border:1px solid;
+   border-color:blue;
 }
    
