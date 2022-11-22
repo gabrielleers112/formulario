@@ -7,6 +7,9 @@ form label{
 }
 td{
    border:1px solid;
-   border-color:Black;
+   border-color: Black;
+  text-aling:center;
+  front-size:25px;
+  color:violet;
 }
    
